@@ -1,0 +1,32 @@
+body {
+  background: #7ce089;
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+}
+
+h1 {
+  color: #d456b9;
+}
+
+.place {
+  margin-bottom: 30px;
+}
+
+img {
+  width: 250px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+h2 {
+  color: #cf4acf;
+}
+
+p {
+  font-size: 16px;
+  color: #4e342e;
+  max-width: 600px;
+  margin: 6px auto;
+}
